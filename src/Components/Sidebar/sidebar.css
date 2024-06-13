@@ -1,0 +1,28 @@
+.sidebar-wrapper {
+  position: absolute;
+  background-color: #143e6f;
+  top: 0;
+  left: 0;
+}
+
+.sidebar-icon {
+  margin: 6px;
+  padding: 5px;
+}
+
+.sidebar-wrapper .active,
+.sidebar-icon:hover {
+  border-radius: 50rem;
+  background-color: #195396;
+  cursor: pointer;
+}
+
+.sidebar-wrapper img {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+  margin: 6px;
+  margin: auto;
+  display: block;
+  margin: 10px;
+}

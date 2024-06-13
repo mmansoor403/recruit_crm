@@ -1,0 +1,20 @@
+.quick-link-wrapper {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  border-bottom: 1px solid #f1f3f5;
+  background-color: #fff;
+}
+
+.quick-link-wrapper div {
+  background-color: #e6f1ff;
+  border-radius: 50rem;
+  cursor: pointer;
+  padding: 10px 12px;
+}
+
+.quick-link img {
+  width: 15px;
+  object-fit: contain;
+}
